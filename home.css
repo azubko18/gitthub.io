@@ -1,0 +1,40 @@
+.home-section {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+
+.home-section .image-wrapper {
+    flex-grow: 1;
+    flex-direction: column;
+    display: flex;
+    align-items: stretch;
+    justify-content: flex-end;
+
+}
+
+.home-page {
+max-width: 100%;
+}
+.container {
+	max-height:1890px;
+}
+.header-details{
+	margin-top: 150px;
+	margin-left:80px;
+}
+
+.home-section .call-to-action {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 1rem;
+    align-self: center;
+}
+.sasha {
+	margin-left:500px;
+	margin-top:-500px;
+	max-width:100%;
+}
